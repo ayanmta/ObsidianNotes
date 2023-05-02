@@ -4,71 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ba88555409da9be6",
+        "id": "0f5a0bdd44d1cd96",
         "type": "tabs",
         "children": [
           {
-            "id": "6d082299661398db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "010f59d35a3ca22f",
+            "id": "aaead0ba3d8a26a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "JS ARRAY.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d1a04d35e8ed5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05e577974fa91c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5d72835f55f3061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -143,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "JS ARRAY.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "JS ARRAY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 8.md"
+                "file": "JS ARRAY.md"
               }
             }
           },
@@ -238,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,13 +205,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5d72835f55f3061",
+  "active": "aaead0ba3d8a26a2",
   "lastOpenFiles": [
+    "Untitled 10.md",
+    "JS ARRAY.md",
+    "IT/JS/JS.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "IT/JS",
+    "Untitled 8.md",
     "Untitled 6.md",
     "Attendance-2023-05-02T21-23-39.tsv.md",
     "Untitled 7.md",
     "Untitled 5.md",
-    "Untitled 8.md",
     "Untitled 4.md",
     "Daily notes/03-May-2023.md",
     "Daily notes/30-Apr-2023.md",
