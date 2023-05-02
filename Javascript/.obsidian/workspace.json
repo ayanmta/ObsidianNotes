@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS ARRAY.md",
+                "file": "IT/OS/OS TO LOOKOUT FOR.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89451153602d6439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/OS/OS TO LOOKOUT FOR.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS ARRAY.md",
+                "file": "IT/OS/OS TO LOOKOUT FOR.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS ARRAY.md",
+                "file": "IT/OS/OS TO LOOKOUT FOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS ARRAY.md"
+                "file": "IT/OS/OS TO LOOKOUT FOR.md"
               }
             }
           },
@@ -205,10 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaead0ba3d8a26a2",
+  "active": "89451153602d6439",
   "lastOpenFiles": [
-    "Untitled 10.md",
+    "IT/WEB DEV/Untitled.md",
+    "IT/OS",
+    "IT/OS/OS TO LOOKOUT FOR.md",
     "JS ARRAY.md",
+    "Untitled 10.md",
     "IT/JS/JS.md",
     "Untitled 2.md",
     "Untitled.md",
@@ -230,8 +247,6 @@
     "Daily notes/24-Nov-2022.md",
     "Daily notes/06-Jan-2023.md",
     "TEMPLATES/Daily Note temp.md",
-    "Daily notes/29-Jan-2023.md",
-    "Daily notes/10-Jan-2023.md",
-    "Daily notes/15-Jan-2023.md"
+    "Daily notes/29-Jan-2023.md"
   ]
 }
