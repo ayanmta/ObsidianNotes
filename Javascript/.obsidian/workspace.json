@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "2f8eebcca1d4e883",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba88555409da9be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d082299661398db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "010f59d35a3ca22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d1a04d35e8ed5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd609d6fd6fe5fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e9ce74853e9a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574cad84e577f076",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "479ce662818785d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06e5fa52f576f713",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d0c1f94bf2f67b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d058dc9f5fadbed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3706db91ffbab28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e80fa8be092ff88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 5.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ec36b63b02bc3eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f163542abacae386",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "384a5d3e27e35a17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 5.md"
+              }
+            }
+          },
+          {
+            "id": "c9b748abd1f7410d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7927e7e440b40fb5",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-web",
+              "state": {}
+            }
+          },
+          {
+            "id": "198e14166a4ae6ef",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "85961e9c2afa70a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbaca142b02ef560",
+            "type": "leaf",
+            "state": {
+              "type": "attendance",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d1a04d35e8ed5a7",
+  "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Daily notes/03-May-2023.md",
+    "Daily notes/30-Apr-2023.md",
+    "Daily notes/23-Apr-2023.md",
+    "Daily notes/19-Feb-2023.md",
+    "Daily notes/14-Feb-2023.md",
+    "Daily notes/03-Feb-2023.md",
+    "Daily notes/31-Jan-2023.md",
+    "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
+    "Daily notes/24-Nov-2022.md",
+    "Daily notes/06-Jan-2023.md",
+    "TEMPLATES/Daily Note temp.md",
+    "Daily notes/29-Jan-2023.md",
+    "Daily notes/10-Jan-2023.md",
+    "Daily notes/15-Jan-2023.md"
+  ]
+}
