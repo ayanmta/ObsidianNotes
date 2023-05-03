@@ -147,16 +147,31 @@ input: nums=[1,2,3,4,5,6,7]
 
 let nsums = [1,2,3,4,5,6,7]
 
-function rotateArray(nsums,k){
-  let lastNum
+const nsmus = [1, 2, 3, 4, 5, 6, 7];
 
- for(let i=0;i<k;i++){
- lastNum=nsums[nsums.length]
- nsums.pop()
- nsums.shift(lastNum)
- }
-  return nsums
+  
+
+function rotateArray(nsmus, k) {
+
+  let lastNum;
+
+  
+
+  for (let i = 0; i < k; i++) {
+
+    lastNum = nsmus[nsmus.length - 1];
+
+    console.log(lastNum);
+
+    nsmus.pop();
+
+    nsmus.unshift(lastNum);
+
+  }
+
+  return nsmus;
+
 }
 
-console.log(rotateArray(nsums,5))
+console.log(rotateArray(nsmus,4))
 ```
