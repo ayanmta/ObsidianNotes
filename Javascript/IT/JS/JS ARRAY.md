@@ -70,27 +70,93 @@ console.log(flee);
   //input: [10,15,2,23,40]   ----> output: 23
   //input: [0,5,2,40]   ----> output: 5
 //trying (o (log n)) time comp using inbuilt java
-
-```JavaScript
-const inputArr = [10, 15, 2, 23, 40];
-
-  
-
-function secondLargest(arr) {
-
-  const uniqArr = new Set(arr);
-
-  //set : create the set of unique array and complexity of
+//set : create the set of unique array and complexity of
 
   //making set is O(n) , value may differ as set donot maintain insertion order
 
   //to overcome this issue  
 
-  console.log(uniqArr);
+```JavaScript
+const inputArr = [10, 15, 2, 23, 40];
 
-}
+function secondLargest(arr) {
+
+  const uniqArr = Array.from(new Set(arr));
+
+  //set : create the set of unique array and complexity of
+
+  //making set is O(n) , value may differ as set donot maintain insertion order
+
+  //to overcome this issue
+
+  uniqArr.sort((a, b) => {
+
+    return b - a;
+
+  });
 
   
 
-secondLargest(inputArr);
+  if (uniqArr.length >= 2) {
+
+    return uniqArr[1];
+
+  } else {
+
+    return -1;
+
+  }
+
+}
+
+console.log(secondLargest(inputArr), "secondlargest");
+
+```
+
+
+this has 0(logn) complexity 
+	lets try to optimize ---> secondLargestOptimised();
+	
+```JavaScript
+const arr = [12,35,1,45,67,89,44]
+function secondLargestOptimised(arr){
+let largest = -1
+let secondLargest = -1
+
+for(let i=0;i<arr.length; i++){
+if(arr[i]>largest){
+	secondLargest = largest
+	largest = arr[i]
+}else if(arr[i]!=largest && arr[i]>secondLargest)
+{
+	secondlargest = arr[i]
+}
+}
+return secondLargest
+}
+console.log(secondLargestOptimised(arr))
+```
+
+this way we remove the o(logn) complexity of sort and keep the o(n)
+
+Q2> ROTATE ARRAY BY K?
+
+input: nums=[1,2,3,4,5,6,7]
+
+```JavaScript
+
+let nsums = [1,2,3,4,5,6,7]
+
+function rotateArray(nsums,k){
+  let lastNum
+
+ for(let i=0;i<k;i++){
+ lastNum=nsums[nsums.length]
+ nsums.pop()
+ nsums.shift(lastNum)
+ }
+  return nsums
+}
+
+console.log(rotateArray(nsums,5))
 ```
