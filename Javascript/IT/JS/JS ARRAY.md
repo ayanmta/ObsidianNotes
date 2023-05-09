@@ -193,3 +193,38 @@ function optimisedReverse(nsums){
 
 }
 ```
+
+
+
+
+##### optimised approach
+lets say k= 4
+	* reverse array [1, 2, 3, 4, 5, 6, 7] => [7,6,5,4,3,2,1] 
+	*  now reverse the k [7,6,5,4,3,2,1] =>[4,5,6,7,3,2,1]
+	* now reverse after k whole array [4,5,6,7,1,2,3]
+* instead of o(n) we can do it in 3 steps
+
+```javascript
+let nsums = [1,2,3,4,5,6,7]
+
+function optimisedReverse(nsums){
+
+}
+
+
+
+
+
+##### optimised approach
+lets say k= 4
+	* reverse array [1, 2, 3, 4, 5, 6, 7] => [7,6,5,4,3,2,1] 
+	*  now reverse the k [7,6,5,4,3,2,1] =>[4,5,6,7,3,2,1]
+	* now reverse after k whole array [4,5,6,7,1,2,3]
+* instead of o(n) we can do it in 3 steps
+
+```javascript
+let nsums = [1,2,3,4,5,6,7]
+
+function optimisedReverse(nsums){
+
+}
