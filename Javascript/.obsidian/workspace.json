@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/12-May-2023.md",
+                "file": "GO/Go Get Started.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"package main  import (\\\"fmt\")func main(){var a,b,c int = 1,2,3fmt.println(a)fmt.println(b)fmt.println(c)}\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/12-May-2023.md",
+                "file": "GO/Go Get Started.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/12-May-2023.md",
+                "file": "GO/Go Get Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/12-May-2023.md"
+                "file": "GO/Go Get Started.md"
               }
             }
           },
@@ -196,12 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03cd3429f1e65ee8",
+  "active": "479ce662818785d4",
   "lastOpenFiles": [
+    "Daily notes/12-May-2023.md",
     "Untitled 9.md",
     "GO/Go Get Started.md",
     "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
-    "Daily notes/12-May-2023.md",
     "GO",
     "IT/JS/array.js",
     "IT/JS/JS.md",
