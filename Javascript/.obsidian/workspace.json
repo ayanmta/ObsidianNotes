@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GO/Go Get Started.md",
+                "file": "Daily notes/12-May-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GO/Go Get Started.md",
+                "file": "Daily notes/12-May-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GO/Go Get Started.md",
+                "file": "Daily notes/12-May-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GO/Go Get Started.md"
+                "file": "Daily notes/12-May-2023.md"
               }
             }
           },
