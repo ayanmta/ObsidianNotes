@@ -68,7 +68,9 @@ func main(){
 
 ### Go Variable Naming Rules:
  * variable cannot start with a number
-      ❌ `var 3age`
+     ❌ `var 3age`
  * only alpha-numeric characters and underscores 
-       *(`a-z, A-Z`, `0-9`, and `_` ) are allowed
+     ✅ *(`a-z, A-Z`, `0-9`, and `_` ) are allowed
  * variable name cannot have spaces 
+     ❌  `var na me := "foo" `
+ * variable name cannot be any Go keywords
