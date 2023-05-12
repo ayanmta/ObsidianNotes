@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 9.md",
+                "file": "GO/Go Get Started.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 9.md",
+                "file": "GO/Go Get Started.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 9.md",
+                "file": "GO/Go Get Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 9.md"
+                "file": "GO/Go Get Started.md"
               }
             }
           },
@@ -198,10 +198,11 @@
   },
   "active": "03cd3429f1e65ee8",
   "lastOpenFiles": [
-    "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
     "Untitled 9.md",
+    "GO/Go Get Started.md",
+    "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
     "Daily notes/12-May-2023.md",
-    "java",
+    "GO",
     "IT/JS/array.js",
     "IT/JS/JS.md",
     "IT/JS/JS PERFORMANCE.md",
@@ -226,7 +227,6 @@
     "Attendance-2023-05-02T21-23-39.tsv.md",
     "Untitled 7.md",
     "Untitled 5.md",
-    "Untitled 4.md",
-    "Daily notes/23-Apr-2023.md"
+    "Untitled 4.md"
   ]
 }
