@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Constants.md",
+                "file": "GO/Go Get Started.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go Constants.md",
+                "file": "GO/Go Get Started.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go Constants.md",
+                "file": "GO/Go Get Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go Constants.md"
+                "file": "GO/Go Get Started.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "13a87c4b4226ccd6",
   "lastOpenFiles": [
-    "GO/Go Get Started.md",
     "Go Constants.md",
+    "GO/Go Get Started.md",
     "Excalidraw/Drawing 2023-05-13 02.41.33.excalidraw.md",
     "Excalidraw/Drawing 2023-05-13 02.41.31.excalidraw.md",
     "Daily notes/12-May-2023.md",
