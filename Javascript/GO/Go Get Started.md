@@ -1,4 +1,4 @@
-**Note:** In Go, any executable code belongs to the `main` package.
+**Note:** In [[Go]], any executable code belongs to the `main` package.
 
 #### Hello world in go 
 
@@ -12,12 +12,12 @@ fmt.println("Hello world")
 
 ```
 
-### Go Statements:
+### [[Go]] Statements:
 * Hitting the Enter key adds "`;`" to the end of the line implicitly (does not show up in the source code).
 * The left curly bracket `{` cannot come at the start of a line.
 
 
-### Go Variable Types:
+### [[Go]] Variable Types:
 * ##### Declaring (Creating) Variables:
   1. with `var` keyword followed by variable name and type 
    ==syntax:
@@ -66,7 +66,7 @@ func main(){
 
 
 
-### Go Variable Naming Rules:
+### [[Go]] Variable Naming Rules:
  * variable cannot start with a number
      ❌ `var 3age`
  * only alpha-numeric characters and underscores 
