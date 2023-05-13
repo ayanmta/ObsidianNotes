@@ -89,3 +89,8 @@ There are a few drawbacks to using slices in Go. First, slices are not as type-s
 Slices are a powerful and versatile data structure in the Go programming language. They are dynamic-size, reference types, and very efficient. If you are looking for a data structure that can be used to store a collection of elements, slices are a great option.
 
 I hope this helps!
+
+
+```
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">went for a hike to a lake🌊 <a href="https://twitter.com/hashtag/mukim?src=hash&amp;ref_src=twsrc%5Etfw">#mukim</a>-<a href="https://twitter.com/hashtag/chikim?src=hash&amp;ref_src=twsrc%5Etfw">#chikim</a> in the himalayas of Himachal Pradesh,🗻 couldn&#39;t reach the exact spot as it started snowing and we had to take a hard decision to step back just 300 meters from the lake <br>place and the lake is beautiful but it is a ticking time bomb 💀 <a href="https://t.co/FYWOUWSLJP">https://t.co/FYWOUWSLJP</a> <a href="https://t.co/6Mumn9dDr7">pic.twitter.com/6Mumn9dDr7</a></p>&mdash; AYAN (@ayan_mehta__) <a href="https://twitter.com/ayan_mehta__/status/1657437592785399808?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
