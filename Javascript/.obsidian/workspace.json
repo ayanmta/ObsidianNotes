@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cf9714bc520214a",
+            "id": "5d97fd76563d99e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Slices.md",
+                "file": "Micro task que.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go Slices.md",
+                "file": "Micro task que.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go Slices.md",
+                "file": "Micro task que.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go Slices.md"
+                "file": "Micro task que.md"
               }
             }
           },
@@ -196,10 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cf9714bc520214a",
+  "active": "5d97fd76563d99e0",
   "lastOpenFiles": [
-    "GO/Go Data Types.md",
     "Go Slices.md",
+    "Micro task que.md",
+    "GO/Go Data Types.md",
     "GO/Go Get Started.md",
     "Excalidraw/Drawing 2023-05-13 02.41.33.excalidraw.md",
     "Excalidraw/Drawing 2023-05-13 02.41.31.excalidraw.md",
@@ -226,7 +227,6 @@
     "Untitled 2.md",
     "Untitled.md",
     "IT/JS",
-    "Untitled 8.md",
-    "Untitled 6.md"
+    "Untitled 8.md"
   ]
 }
