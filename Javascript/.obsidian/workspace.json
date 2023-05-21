@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro task que.md",
+                "file": "Micro Task ques.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro task que.md",
+                "file": "Micro Task ques.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro task que.md",
+                "file": "Micro Task ques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro task que.md"
+                "file": "Micro Task ques.md"
               }
             }
           },
@@ -199,7 +199,7 @@
   "active": "5d97fd76563d99e0",
   "lastOpenFiles": [
     "Go Slices.md",
-    "Micro task que.md",
+    "Micro Task ques.md",
     "GO/Go Data Types.md",
     "GO/Go Get Started.md",
     "Excalidraw/Drawing 2023-05-13 02.41.33.excalidraw.md",
