@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d97fd76563d99e0",
+            "id": "fc6f484e9407af9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro Task ques.md",
+                "file": "Optimise large list React.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d058dc9f5fadbed1",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Task ques.md",
+                "file": "Optimise large list React.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro Task ques.md",
+                "file": "Optimise large list React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro Task ques.md"
+                "file": "Optimise large list React.md"
               }
             }
           },
@@ -196,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d97fd76563d99e0",
+  "active": "fc6f484e9407af9f",
   "lastOpenFiles": [
-    "Go Slices.md",
     "Micro Task ques.md",
+    "Optimise large list React.md",
+    "Go Slices.md",
     "GO/Go Data Types.md",
     "GO/Go Get Started.md",
     "Excalidraw/Drawing 2023-05-13 02.41.33.excalidraw.md",
@@ -226,7 +228,6 @@
     "Untitled 10.md",
     "Untitled 2.md",
     "Untitled.md",
-    "IT/JS",
-    "Untitled 8.md"
+    "IT/JS"
   ]
 }
