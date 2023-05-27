@@ -6,6 +6,7 @@ Maps are a collection of key-value pairs, where each key is associated with a va
 
 ## How to create maps?
 
+
 ```go
 // Create an empty map of string keys and int values
 m1 := make(map[string]int)
