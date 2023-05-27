@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c4529d592183cb",
+        "id": "cf6e188feaca8840",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6f484e9407af9f",
+            "id": "2abab6f02db3bf46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimise large list React.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "254feba660fb6a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/27-May-2023.md",
+                "file": "Untitled 11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimise large list React.md",
+                "file": "Untitled 11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimise large list React.md",
+                "file": "Untitled 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimise large list React.md"
+                "file": "Untitled 11.md"
               }
             }
           },
@@ -211,11 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "254feba660fb6a7c",
+  "active": "2abab6f02db3bf46",
   "lastOpenFiles": [
+    "Untitled 11.md",
+    "Excalidraw/Drawing 2023-05-27 04.17.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-27 04.17.20.excalidraw.md",
     "Daily notes/27-May-2023.md",
-    "Micro Task ques.md",
+    "todo.canvas",
     "Optimise large list React.md",
+    "Micro Task ques.md",
     "Go Slices.md",
     "GO/Go Data Types.md",
     "GO/Go Get Started.md",
@@ -238,10 +228,7 @@
     "personal budget.md",
     "Daily notes/03-May-2023.md",
     "IT/OS/OS TO LOOKOUT FOR.md",
-    "IT/WEB DEV/Untitled.md",
     "IT/OS",
-    "Untitled 10.md",
-    "Untitled 2.md",
     "IT/JS"
   ]
 }
