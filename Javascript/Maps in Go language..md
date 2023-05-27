@@ -75,8 +75,11 @@ if isPresent {
 
 Here are some tips and tricks to make the most out of maps in Go:
 
-- You can use the `len` function to get the number of elements in a map. For example: `fmt.Println(len(m3))`
-- You can use the `range` keyword to iterate over a map. The range expression returns two values: the key and the value for each element in the map. You can use the blank identifier `_` to ignore either value if you don’t need it. For example:
+- You can use the `len` function to get the number of elements in a map.
+    For example: `fmt.Println(len(m3))`
+- You can use the `range` keyword to iterate over a map. 
+     The range expression returns two values: the key and the value for each element in the map. You can use the blank identifier `_` to ignore either value if you don’t need it.
+	For example:
 
 ```go
 // Print all key-value pairs in the map
