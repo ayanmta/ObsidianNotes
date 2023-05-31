@@ -2,7 +2,7 @@ Hello, and welcome to this blog post about maps in [[Go]] language. Maps are one
 
 ## What are maps?
 
-Maps are a collection of key-value pairs, where each key is associated with a value. Maps are also known as dictionaries, hashes, or associative arrays in other languages. Maps are useful for storing and retrieving data based on a unique identifier. For example, you can use a map to store the phone numbers of your contacts, where the key is the name of the contact and the value is the phone number.
+Maps are a collection of key-value pairs, where each key is associated with a value. Maps are also known as dictionaries, hashes, or associative arrays in other languages. Maps are useful for storing and retrieving data based on a unique identifier.
 
 ## How to create maps?
 
