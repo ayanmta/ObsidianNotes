@@ -44,6 +44,13 @@ function exampleConst() { const PI = 3.14159; if (true) { const PI = 3.14;
 ```
 
 
-## Q - 
+## Q - how to shallow and deep copy object in js ?
+
+
+### Shallow Copy:
+ * creates new obj but properties still refer the original object memory location
+ * implies any change in new object will effect the property of the original object 
+ *  they share common reference (original - new )
+
 
 
