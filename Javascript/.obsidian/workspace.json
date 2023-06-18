@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/JS/interview questions.md",
+                "file": "Daily notes/18-Jun-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f89cfdac50b79e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/JS/interview questions.md",
+                "file": "Untitled 11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/JS/interview questions.md",
+                "file": "Untitled 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/JS/interview questions.md"
+                "file": "Untitled 11.md"
               }
             }
           },
@@ -196,8 +210,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0553a59dfd501192",
+  "active": "f89cfdac50b79e6f",
   "lastOpenFiles": [
+    "Daily notes/18-Jun-2023.md",
+    "Untitled 11.md",
+    "IT/JS/interview questions.md",
     "unique class tailwind.md",
     "IT/tailwindcss",
     "Daily notes/11-Jun-2023.md",
@@ -218,7 +235,6 @@
     "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
     "GO",
     "IT/JS/array.js",
-    "IT/JS/interview questions.md",
     "IT/JS/JS PERFORMANCE.md",
     "IT/JS/JS ARRAY.md",
     "Daily notes/30-Apr-2023.md",
@@ -226,8 +242,6 @@
     "Readwise/Books/Python.md",
     "Readwise/Books/AFCAT Topic-Wise Solved Papers (2011-17) With 5 Practice Sets.md",
     "Readwise/Books/How to Win Friends and Influence People.md",
-    "pink.md",
-    "personal budget.md",
     "IT/OS",
     "IT/JS"
   ]
