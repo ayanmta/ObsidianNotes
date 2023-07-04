@@ -1,0 +1,16 @@
+[[glacier lake]]
+
+# Data needed:
+* debris thickness data
+* surface temperature data ( In addition to that, a constant temperature lapse rate of − 6.5 deg CKm−1 was used to altitude-scale the station temperature to the glacier’s location.)
+* rainfall data
+
+# check on it 
+
+* The data regarding glacier geometry such as bed elevation, base width and orientation of the sidewalls were derived from the bed topography map of the Gepan Gath glacier for the year 2000. The bed map was acquired from the study conducted by[14](https://www.nature.com/articles/s41598-023-28144-8#ref-CR14 "Pandit, A. & Ramsankaran, R. Modeling ice thickness distribution and storage volume of glaciers in Chandra Basin, western Himalayas. J. Mt. Sci. 17, 2011–2022 (2020).") where they had estimated the bed topography for the years 2000 and 2013 by (a) assuming Shallow Ice Approximation[23](https://www.nature.com/articles/s41598-023-28144-8#ref-CR23 "Hutter, K. Theoretical Glaciology (Springer, Netherlands, 1983)."), (b) parameterizing the longitudinal and lateral stresses in the form of a valley shape factor and (c) optimising the shape factor based on glacier surface geometry[24](https://www.nature.com/articles/s41598-023-28144-8#ref-CR24 "Ramsankaran, R. A. A. J., Pandit, A. & Azam, M. F. Spatially distributed ice-thickness modelling for Chhota Shigri Glacier in western Himalayas India. Int. J. Remote Sens. 39, 3320–3343 (2018)."). ??   how to get it 
+
+# To Be done :
+1) **Elevation of the calving front**: The calving scheme used in the study is based on the height-above-buoyancy or floatation model as proposed by[34](https://www.nature.com/articles/s41598-023-28144-8#ref-CR34 "Vieli, A., Funk, M. & Blatter, H. Flow dynamics of tidewater glaciers: a numerical modelling approach. J. Glaciol. 47, 595–606 (2001)."). This model assumes that the position of the calving front is controlled by the fraction of glacier frontal ice thickness that lies above the lake’s water level. Due to the non-availability of such data and our inability to measure this parameter in the field owing to the extremely rough terrain at the glacier front, we had no choice but to modify the numerical scheme for simulating calving. Consequently, the difference between observed and modelled glacier and lake lengths increased.
+2) Lake bathymetry: This is a crucial parameter that determines the rate of glacier retreat and the glacier-fed lake’s subsequent expansion. The deeper and larger the lake, the more pronounced will be the glacier’s mass loss due to calving and consequently, the more rapid will the lake’s expansion be. In the case of Gepan Gath glacier, due to the highly treacherous terrain of the glacier and also of the areas surrounding the lake, we were unable to carry out any SONAR sounding investigations of the lake. However, due to non-availability of published data on lake bathymetry, we had to rely on the bed elevation map of Gepan Gath glacier produced by[14](https://www.nature.com/articles/s41598-023-28144-8#ref-CR14 "Pandit, A. & Ramsankaran, R. Modeling ice thickness distribution and storage volume of glaciers in Chandra Basin, western Himalayas. J. Mt. Sci. 17, 2011–2022 (2020).").
+3) Multi-Beam SONAR
+
