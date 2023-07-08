@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afa219cc7582b8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CACHING IN REACT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/QUEUE DSA.md",
+                "file": "CACHING IN REACT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/QUEUE DSA.md",
+                "file": "CACHING IN REACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/QUEUE DSA.md"
+                "file": "CACHING IN REACT.md"
               }
             }
           },
@@ -196,8 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fe6da396b4e2225",
+  "active": "afa219cc7582b8e4",
   "lastOpenFiles": [
+    "DSA/QUEUE DSA.md",
+    "CACHING IN REACT.md",
     "Pasted image 20230708174158.png",
     "Untitled 11.md",
     "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md",
@@ -228,7 +244,6 @@
     "IT/JS/array.js",
     "IT/JS/JS PERFORMANCE.md",
     "IT/JS/JS ARRAY.md",
-    "Daily notes/30-Apr-2023.md",
     "IT/OS",
     "IT/JS"
   ]
