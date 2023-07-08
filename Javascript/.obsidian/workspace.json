@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e36913597797e7ec",
+            "id": "9fe6da396b4e2225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md",
+                "file": "DSA/QUEUE DSA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md",
+                "file": "DSA/QUEUE DSA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md",
+                "file": "DSA/QUEUE DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md"
+                "file": "DSA/QUEUE DSA.md"
               }
             }
           },
@@ -196,10 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e36913597797e7ec",
+  "active": "9fe6da396b4e2225",
   "lastOpenFiles": [
-    "Daily notes/04-Jul-2023.md",
+    "Pasted image 20230708174158.png",
+    "Untitled 11.md",
     "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md",
+    "DSA",
+    "Daily notes/04-Jul-2023.md",
     "Glacier lake itenary.md",
     "Daily notes/18-Jun-2023.md",
     "IT/JS/interview questions.md",
@@ -226,8 +229,6 @@
     "IT/JS/JS PERFORMANCE.md",
     "IT/JS/JS ARRAY.md",
     "Daily notes/30-Apr-2023.md",
-    "Daily notes/08-May-2023.md",
-    "Readwise/Books/Python.md",
     "IT/OS",
     "IT/JS"
   ]
