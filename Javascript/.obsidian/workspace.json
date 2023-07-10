@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fe6da396b4e2225",
+            "id": "51c048d024495d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/QUEUE DSA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9a3f0e1e9cb2268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTERVIEW QUE.md",
+                "file": "JAVASCRIPT PROTOTYPE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERVIEW QUE.md",
+                "file": "JAVASCRIPT PROTOTYPE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERVIEW QUE.md",
+                "file": "JAVASCRIPT PROTOTYPE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTERVIEW QUE.md"
+                "file": "JAVASCRIPT PROTOTYPE.md"
               }
             }
           },
@@ -210,10 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9a3f0e1e9cb2268",
+  "active": "51c048d024495d4a",
   "lastOpenFiles": [
-    "Daily notes/09-Jul-2023.md",
     "INTERVIEW QUE.md",
+    "JAVASCRIPT PROTOTYPE.md",
+    "Daily notes/09-Jul-2023.md",
     "CACHING IN REACT.md",
     "DSA/QUEUE DSA.md",
     "Pasted image 20230708174158.png",
@@ -241,7 +228,6 @@
     "Excalidraw/Drawing 2023-05-13 02.41.31.excalidraw.md",
     "Daily notes/12-May-2023.md",
     "Untitled 9.md",
-    "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
     "GO",
     "IT/JS/array.js",
     "IT/OS",
