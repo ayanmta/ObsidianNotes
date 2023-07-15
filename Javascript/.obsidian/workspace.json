@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bae329d252f4b62",
+            "id": "f0f065a3ad1024e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JWT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JWT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JWT.md"
+              }
             }
           },
           {
@@ -187,8 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "574cad84e577f076",
+  "active": "f0f065a3ad1024e6",
   "lastOpenFiles": [
+    "JWT.md",
+    "Untitled.md",
+    "Untitled 12.md",
     "Daily notes/15-Jul-2023.md",
     "JAVASCRIPT PROTOTYPE.md",
     "INTERVIEW QUE.md",
@@ -216,9 +228,6 @@
     "Go Slices.md",
     "GO/Go Data Types.md",
     "GO/Go Get Started.md",
-    "Excalidraw/Drawing 2023-05-13 02.41.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-13 02.41.31.excalidraw.md",
-    "Daily notes/12-May-2023.md",
     "GO",
     "IT/JS/array.js",
     "IT/OS",
