@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5153f6d4fbdb909",
+        "id": "4d041fad13cb7a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "51c048d024495d4a",
+            "id": "7bae329d252f4b62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVASCRIPT PROTOTYPE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT PROTOTYPE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT PROTOTYPE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVASCRIPT PROTOTYPE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51c048d024495d4a",
+  "active": "574cad84e577f076",
   "lastOpenFiles": [
-    "INTERVIEW QUE.md",
+    "Daily notes/15-Jul-2023.md",
     "JAVASCRIPT PROTOTYPE.md",
+    "INTERVIEW QUE.md",
     "Daily notes/09-Jul-2023.md",
     "CACHING IN REACT.md",
     "DSA/QUEUE DSA.md",
@@ -227,7 +219,6 @@
     "Excalidraw/Drawing 2023-05-13 02.41.33.excalidraw.md",
     "Excalidraw/Drawing 2023-05-13 02.41.31.excalidraw.md",
     "Daily notes/12-May-2023.md",
-    "Untitled 9.md",
     "GO",
     "IT/JS/array.js",
     "IT/OS",
