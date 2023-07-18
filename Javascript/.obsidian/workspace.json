@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT.md",
+                "file": "IT/JS/interview questions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT.md",
+                "file": "IT/JS/interview questions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT.md",
+                "file": "IT/JS/interview questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT.md"
+                "file": "IT/JS/interview questions.md"
               }
             }
           },
@@ -198,15 +198,25 @@
   },
   "active": "f0f065a3ad1024e6",
   "lastOpenFiles": [
+    "Readwise/Books/True Paranormal Hauntings.md",
+    "blue.md",
+    "INTERVIEW QUE.md",
+    "CSS.md",
+    "JAVASCRIPT.md",
+    "JAVASCRIPT PROTOTYPE.md",
+    "Go Slices.md",
+    "CIRCULAR QUEUE.md",
+    "ASYMPTOTIC NOTATION IN COMPLEXITY ANALYSIS OF ALGORITHMS.md",
+    "DSA/QUEUE DSA.md",
+    "QUEUE.md",
+    "Readwise/Books/AFCAT Topic-Wise Solved Papers (2011-17) With 5 Practice Sets.md",
+    "pink.md",
     "JWT.md",
     "Untitled.md",
     "Untitled 12.md",
     "Daily notes/15-Jul-2023.md",
-    "JAVASCRIPT PROTOTYPE.md",
-    "INTERVIEW QUE.md",
     "Daily notes/09-Jul-2023.md",
     "CACHING IN REACT.md",
-    "DSA/QUEUE DSA.md",
     "Pasted image 20230708174158.png",
     "Untitled 11.md",
     "Unleashing React Speed Conquer Performance Bottlenecks of re-render.md",
@@ -217,17 +227,7 @@
     "IT/JS/interview questions.md",
     "unique class tailwind.md",
     "IT/tailwindcss",
-    "Daily notes/11-Jun-2023.md",
-    "Maps in Go language..md",
-    "Excalidraw/Drawing 2023-05-27 04.17.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-27 04.17.20.excalidraw.md",
-    "Daily notes/27-May-2023.md",
     "todo.canvas",
-    "Optimise large list React.md",
-    "Micro Task ques.md",
-    "Go Slices.md",
-    "GO/Go Data Types.md",
-    "GO/Go Get Started.md",
     "GO",
     "IT/JS/array.js",
     "IT/OS",
