@@ -1,6 +1,6 @@
 
 
-
+DFRFRF BNHGTYUTRFYYHTGSR
 [[interview questions]]
 
 ## Q - what is the difference between let var and const ?
