@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/JS/interview questions.md",
+                "file": "Daily notes/29-Jul-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/JS/interview questions.md",
+                "file": "Daily notes/29-Jul-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/JS/interview questions.md",
+                "file": "Daily notes/29-Jul-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/JS/interview questions.md"
+                "file": "Daily notes/29-Jul-2023.md"
               }
             }
           },
@@ -198,6 +198,8 @@
   },
   "active": "f0f065a3ad1024e6",
   "lastOpenFiles": [
+    "IT/JS/interview questions.md",
+    "Daily notes/29-Jul-2023.md",
     "Readwise/Books/True Paranormal Hauntings.md",
     "blue.md",
     "INTERVIEW QUE.md",
@@ -224,8 +226,6 @@
     "Daily notes/04-Jul-2023.md",
     "Glacier lake itenary.md",
     "Daily notes/18-Jun-2023.md",
-    "IT/JS/interview questions.md",
-    "unique class tailwind.md",
     "IT/tailwindcss",
     "todo.canvas",
     "GO",
