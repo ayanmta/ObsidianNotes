@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Easing React context pain points with Type Checking.md",
+                "file": "Daily notes/20-Aug-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Easing React context pain points with Type Checking.md",
+                "file": "Daily notes/20-Aug-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Easing React context pain points with Type Checking.md",
+                "file": "Daily notes/20-Aug-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Easing React context pain points with Type Checking.md"
+                "file": "Daily notes/20-Aug-2023.md"
               }
             }
           },
@@ -198,8 +198,9 @@
   },
   "active": "6f18fabba90c7a7b",
   "lastOpenFiles": [
-    "Daily notes/29-Jul-2023.md",
     "Easing React context pain points with Type Checking.md",
+    "Daily notes/20-Aug-2023.md",
+    "Daily notes/29-Jul-2023.md",
     "Daily notes/10-Aug-2023.md",
     "Untitled 13.md",
     "Daily notes/09-Aug-2023.md",
@@ -224,7 +225,6 @@
     "Daily notes/09-Jul-2023.md",
     "CACHING IN REACT.md",
     "Pasted image 20230708174158.png",
-    "Untitled 11.md",
     "DSA",
     "IT/tailwindcss",
     "todo.canvas",
