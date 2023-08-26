@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object.freeze().md",
+                "file": "Daily notes/20-Aug-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object.freeze().md",
+                "file": "Daily notes/20-Aug-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object.freeze().md"
+                "file": "Daily notes/20-Aug-2023.md"
               }
             }
           },
@@ -210,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "167bcb11ec52d8ba",
+  "active": "6f18fabba90c7a7b",
   "lastOpenFiles": [
-    "Daily notes/20-Aug-2023.md",
     "Object.freeze().md",
+    "Daily notes/20-Aug-2023.md",
     "Easing React context pain points with Type Checking.md",
     "Daily notes/29-Jul-2023.md",
     "Daily notes/10-Aug-2023.md",
