@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f18fabba90c7a7b",
+            "id": "58de329849d6e252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/29-Aug-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "167bcb11ec52d8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object.freeze().md",
+                "file": "Worker_Threads in nodejs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/29-Aug-2023.md",
+                "file": "Worker_Threads in nodejs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/29-Aug-2023.md",
+                "file": "Worker_Threads in nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/29-Aug-2023.md"
+                "file": "Worker_Threads in nodejs.md"
               }
             }
           },
@@ -209,11 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f18fabba90c7a7b",
+  "active": "58de329849d6e252",
   "lastOpenFiles": [
-    "Daily notes/20-Aug-2023.md",
-    "Daily notes/29-Aug-2023.md",
     "Object.freeze().md",
+    "Worker_Threads in nodejs.md",
+    "Daily notes/29-Aug-2023.md",
+    "Daily notes/20-Aug-2023.md",
     "Easing React context pain points with Type Checking.md",
     "Daily notes/29-Jul-2023.md",
     "Daily notes/10-Aug-2023.md",
@@ -236,7 +224,6 @@
     "JWT.md",
     "Untitled.md",
     "Untitled 12.md",
-    "Daily notes/15-Jul-2023.md",
     "Pasted image 20230708174158.png",
     "DSA",
     "IT/tailwindcss",
