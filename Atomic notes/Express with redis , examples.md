@@ -3,24 +3,63 @@ tags: #express #javascript #tech
 
 ```typescript
   
+  
 
 const express = require('express')
 
 const app = express()
 
-const Redis = require('ioredis')
+const redis = require('redis')
 
 const axios = require('axios')
 
-app.use(express.json());
+  
 
-const redis = new Redis({
+let redisClient
 
-host: '127.0.0.1', // Redis host
+(()=>{
 
-port: 6379, // Redis port
+redisClient = redis.createClient();
 
-});
+redisClient.on('error',(err)=>console.log(err));
+
+redisClient.connect()
+
+//default connection 6379
+
+})()
+
+  
+
+async function cacheData(req,res,next) {
+
+const userInfo = req.params.info
+
+try{
+
+const cachedData = await redisClient.get(userInfo)
+
+const results=JSON.parse(cachedData)
+
+if(cachedData){
+
+res.send({fromCache:true,
+
+data:results
+
+})
+
+}else{next()}
+
+}catch(err){
+
+throw err
+
+}
+
+}
+
+  
 
 app.get('/',(req,res)=>{
 
@@ -80,18 +119,69 @@ res.status(500).send('Internal Server Error');
 
   
   
+
+async function fetchApiData(info){
+
+const apiResp = await axios.get(`http://localhost:3000/${info}`)
+
+console.log('req sent to api');
+
+return apiResp.data
+
+}
+
   
+
+async function getApiData(req,res){
+
+const info = req.params.info;
+
+let results
+
+try{
+
+results = await fetchApiData(info);
+
+if(results.length===0){
+
+throw "Api returned empty array"
+
+}
+
+await redisClient.set(info,JSON.stringify(results),{
+
+EX:300,
+
+NX:true
+
+})
+
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+res.send(
+
+{fromCache:false,
+
+data:results
+
+}
+
+)
+
+}
+
+catch(error){
+
+console.error(error)
+
+res.status(404).send("data unaivalable")
+
+}
+
+}
+
+app.get('/redis/:info',cacheData,getApiData)
+
   
   
 
